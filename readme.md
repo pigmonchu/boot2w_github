@@ -73,4 +73,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 	~~~
 	git reflog
 	git reset --hard 9da7935
-	~~
+	~~~
+	
+##Ejercicio 2
+Merged [#162](https://github.com/kasappeal/nerdquotes/pull/162).
